@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebView
-    android:id="@+id/webview"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-/>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://ross-conspiracy.github.io/</loc>

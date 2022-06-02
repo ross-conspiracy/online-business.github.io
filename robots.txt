@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /img/
+Disallow: /authors/img/
+Disallow: /articles/index.html
+
+Sitemap: https://ross-conspiracy.github.io/sitemap.xml

@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://ross-conspiracy.github.io/</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-12-30</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
 	<url>
 		<loc>https://ross-conspiracy.github.io/authors/</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-12-30</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
 		<loc>https://ross-conspiracy.github.io/posts</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-12-30</lastmod>
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
 		<loc>https://ross-conspiracy.github.io/about</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-12-30</lastmod>
 		<changefreq>yearly</changefreq>
 	</url>
 	<url>
 		<loc>https://ross-conspiracy.github.io/articles/bf-microves-brain-fryers</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-12-30</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>1</priority>
 	</url>

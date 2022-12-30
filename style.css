@@ -109,6 +109,7 @@ nav {
 
 .post {
 	padding: 20px;
+	margin: 20px;
 	background: var(--green);
 	border-radius: 10px;
 }
@@ -157,6 +158,17 @@ nav {
 }
 
 /*Homepage*/
+.hoempage-about {
+	margin: auto;
+	align-items: center;
+}
+
+.homepage-info {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+}
+
 .homepage-container {
 	background-image: url("img/ufo_sight_1.png");
 	background-color: #00c539;
